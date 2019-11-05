@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 import requests as req
 
-rd_fl_url = "/home/simon/Documents/Brain/Language/english.txt"
-wrt_fl_url = "/home/simon/Documents/Brain/Language/QA.txt"
+rd_fl_url = "/home/simon/Documents/Brain/BeautifulSoup - Language/english.txt"
+wrt_fl_url = "/home/simon/Documents/Brain/BeautifulSoup - Language/QA.txt"
 bs_url = "https://en.oxforddictionaries.com/definition/"
 dictUrl = "https://www.dictionary.com/browse/"
 frenchTranslationUrl = "https://www.larousse.fr/dictionnaires/anglais-francais/"
@@ -13,6 +13,8 @@ def readEnglishFile():
     with open(rd_fl_url, "r") as rd:
         for line in rd:
             wrds.append(line.strip().lower())
+    with open(rd_fl_url, "w") as f:
+        f.write('BYTEORDER')
     return wrds[1:]
 
 # Use BeautifulSoup to get the definitions. 
@@ -71,11 +73,10 @@ def getInfo(ls):
 
         if len(translations) > 0 :
             for element in translations:
-                translation.append(element.text.replace("\n", "").replace(" f", "")replace("Conjugaison", ""))
+                translation.append(element.text.replace("\n", "").replace(" f", "").replace("Conjugaison", ""))
         else:
             translation.append("NULL")
         
-        print(translation)
         dne.append((list(zip(itrs, dfs)), egs, relatedWords, translation))
         it += 1
 
@@ -83,24 +84,30 @@ def getInfo(ls):
 
 # Write neatly in a txt file. 
 def writeQA(dne, wrds):
+    previousDef = list()
+    with open(wrt_fl_url , "r") as f:
+        previousDef =  f.readlines()
     with open(wrt_fl_url , "w") as wt:
+        wt.writelines(previousDef)
         for i, item in enumerate(dne):
             s = str(i+1) + ". " + wrds[i] + "\n\n"
             for j in range(0, len(dne[i][0])):
                 s += dne[i][0][j][0] + " " + dne[i][0][j][1] + "\n\n"
-                s += "Examples: \n\n"
+                s += "\n\nExamples: \n\n"
                 for k in range(0, len(dne[i][1][j+1])):
                     # if k>5:
                     #     continue
                     s += dne[i][1][j+1][k] + "\n\n"
+                    if k == len(dne[i][1][j+1]) - 1:
+                        s += "\n\n"
             s += "Related Forms: \n\n"
             for j in dne[i][2]:
                 s += j + "\n"  
             s += "\n"     
-            s += "French: \n\n"
+            s += "\n\nFrench: \n\n"
             for j in dne[i][3]:
                 s += j + "\n"  
-            s += "\n"  
+            s += "\n\n\n"  
             wt.write(s)
                             
 
