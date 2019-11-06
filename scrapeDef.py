@@ -30,21 +30,24 @@ def getInfo(ls):
         dfs = list()
         egs = list()
 
-        
+        # Make request and create a soup object. 
+        result = req.get(bs_url + i)
+        print(result)
+        soup = BeautifulSoup(result.text, "lxml")
+
         # Store definitions and examples. 
-        # for element in soup.find_all(True, {"class":["ind", "ex", "iteration", "subsenseIteration"]}):
-        #     print(element)
-        #     if (element['class'][0] == "iteration" or element['class'][0] == "subsenseIteration"):
-        #         itrs.append(element.text)
-        #         itr +=1
-        #         egs[itr] = list()
-        #     elif (element['class'][0] == "ind"):
-        #         print(element.text)
-        #         dfs.append(element.text)
-        #     else:
-        #         ls = egs[itr]
-        #         ls.append(element.text)
-        #         egs[itr] = ls
+        for element in soup.find_all(True, {"class":["ind", "ex", "iteration", "subsenseIteration"]}):
+            print(element)
+            if (element['class'][0] == "iteration" or element['class'][0] == "subsenseIteration"):
+                itrs.append(element.text)
+                itr +=1
+                egs[itr] = list()
+            elif (element['class'][0] == "ind"):
+                dfs.append(element.text)
+            else:
+                ls = egs[itr]
+                ls.append(element.text)
+                egs[itr] = ls
 
 
         result = req.get(dictUrl + i)

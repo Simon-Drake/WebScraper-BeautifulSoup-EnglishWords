@@ -1,116 +1,341 @@
-1. Order
+1. bold
+
+1 (of a person, action, or idea) showing a willingness to take risks; confident and courageous.
+
+
+
+Examples: 
+
+‘a bold attempt to solve the crisis’
+
+‘no journalist was bold enough to take on the Prime Minister’
+
+‘Andreu, one of the world's leading experts in airport design, has been praised for the exceptional engineering which allows his bold ideas to come to life.’
+
+‘To say it is a bold idea is not to say that it's new.’
+
+‘His job has been to head a congregation whose assignment is not to generate new and bold ideas, but to preserve the integrity of the tradition of the church.’
+
+‘I have the experience and I have the bold ideas that I think people can get really excited about in this campaign.’
+
+‘Anything lowering their chances of being spotted by Liches sounded like a good idea, so the tension at Raven's bold suggestion quickly subsided.’
+
+‘Judge Jones was a bankruptcy lawyer and an authority on business law, but has perhaps received more attention for her bold opinions on social issues and criminal law.’
+
+‘But Brian, I'd like you to consider a bold suggestion.’
+
+‘All the bold opinions have been stated and restated for years.’
+
+‘While Nicky watched and marvelled, his father Paul, rating Rio the finest place he has been, was struck by the bold attitudes towards poverty.’
+
+‘The customers' bold suggestion was to launch a restaurant of their own, but Huang was still quite cautious about it.’
+
+‘It is in that light that the bold suggestion is made for a Caribbean Banking Consortium.’
+
+‘It's a bold concept, but one that's smartly conveyed by its paintings and hypnotic jingle.’
+
+‘Without them and their bold thoughts Keighley would not be what it is today.’
+
+‘Because of his bold recommendations to higher headquarters, he was assigned to build up defensive units.’
+
+‘Kamenskii stakes out a series of bold interpretations in this study, ably translated and edited by David Griffiths.’
+
+‘Plato had made the bold suggestion that there might be a single axiom system to embrace all knowledge.’
+
+‘Yet because we yearn to be seen as bold, brave and courageous, we'll take stupid risks to prove our worth.’
+
+‘The others, who had gathered to discuss the problem, gasped in shock at such a bold suggestion.’
+
+‘In its first national advertising campaign, Infinite Spirits took a bold risk.’
+
+‘Most were young, hardy, physically fit, courageous, fearless, bold, endowed with fortitude and endurance, and ever ready for a fight.’
+
+
+
+1.1 (of a person or their manner) so confident as to be impudent or presumptuous.
+
+
+
+Examples: 
+
+‘she tossed him a bold look’
+
+‘No man's Mercedes is safe; the thieves are so bold they'll make off with your vintage automobile with a forklift.’
+
+‘With a shrug, Lenore plopped down on the tiny chair of her table, crossing her legs in a bold manner.’
+
+‘I believe that such feelings will not be considered bold presumption but an act of love.’
+
+‘Whatever bold words she wished to say to her would have to remain behind a careful mouth.’
+
+‘Raven doubted that any woman had ever been this bold with him before.’
+
+
+
+1.2 (especially of a child) naughty; badly behaved.
+
+
+
+Examples: 
+
+‘I slapped him when he was bold’
+
+‘Like a bold boy at a children's party, he still insists on being the centre of attention even though it's not his birthday.’
+
+
+
+2 (of a colour, design, or shape) having a strong, vivid, or clear appearance.
+
+
+
+Examples: 
+
+‘a coat with bold polka dots’
+
+‘Utzon's interior design was characterised by bold colours and fantastic shapes.’
+
+‘There is less intricacy of detail, and the bold lines and strong colours relate them to North Indian folk art.’
+
+‘They are like cartoons, with their bold lines, bright colours and flat shapes.’
+
+‘She uses bright colours in bold designs to convey an impression of viewing the basic, unadulterated image.’
+
+‘They are bold shapes; strong blocks of colour defined by thick black lines and veiled with subtle, intricate patterns of feathers, scales and seashells.’
+
+‘The combination of the shapes and bold colours creates a stimulating image.’
+
+‘The Romans called them the ‘painted people’, and the Celtic love of colour is obvious in the bold designs on their floors and walls.’
+
+‘With new paints, dyes and synthetic fabrics, bright bold colour was avidly adopted in all aspects of design.’
+
+‘Young readers will love the bright, bold designs and the luscious colours.’
+
+‘He has composed a series of townships scenes in flat planes of bright and bold colours that clamour for attention.’
+
+‘Using a brush and a matchstick to paint his decoys, Bergman achieved a unique balance between vivid colors, bold lines, and scratch painting.’
+
+‘In Spain he created abstract work featuring vivid colors and bold lines.’
+
+‘Just make sure the colors you choose fit with the bold hues of your design.’
+
+‘The end product is a strong, vibrant painting in bold colours with a wealth of detail capturing the jumble of roofs and chimneys.’
+
+‘The switches are large and solid, and the bold shapes and contours give the impression of utility without ever approaching the austere.’
+
+‘They're also attracted to bright, bold colours and sharp outlines, and any sudden movement may attract their gaze.’
+
+‘His symbolism is strong and his colours are bold.’
+
+‘His designs were bold and sexy, with bright red dominating transparent and undulating fabrics.’
+
+‘Bright colours and clear bold graphics make the menu practical and aesthetically pleasing.’
+
+‘Facing west is a bold design of a fourfold leaf with a tiny, barely noticeable face in the centre.’
+
+
+
+2.1 Of a kind of typeface having dark, heavy strokes, used especially for emphasis.
+
+
+
+Examples: 
+
+‘cross references are printed in bold type’
+
+‘As if to emphasise the point, the report prints the comment in bold type.’
+
+‘I'd like the following printed on all scorecards in bold type.’
+
+‘Paragraph 3 has a footnote at the end in bold type.’
+
+‘On the list of active chatters, a certain name in bold type sat above everyone else.’
+
+‘The sites associated with the separation between Ethiopia and Europe are also given in bold type.’
+
+‘Such themes are all clearly presented in the body of the commentary and helpfully emphasised in bold type.’
+
+‘Subheadings within chapters are in bold type for easy chapter outlining.’
+
+‘It's not often that an author is prompted to make a statement in bold type to correct what he sees as a gross misunderstanding.’
+
+‘The differences from the previously reported sequences are in bold type’
+
+‘Parameters to which the model is sensitive are in bold type.’
+
+‘It's important to stress the words in bold type.’
+
+‘Significant differences are shown in bold type.’
+
+‘I emphasize the translated word in question in bold type.’
+
+‘Key words and concepts in these lessons are in bold type.’
+
+‘It's his name in bold type above the film's title and his beatific image on the poster.’
+
+‘I noted at the time that each pen was emblazoned in bold type with the word WASHABLE.’
+
+‘Only what is in bold type above was quoted in the evidence to the Court.’
+
+‘Kelman reproduces it, with the cut portions in bold type, emphasising only what a good job was made of editing it.’
+
+‘Predictions of exceptionally high tides are given in bold type.’
+
+‘The final paragraph of the letter, printed in bold type, made it very clear what would happen if they didn't accept.’
+
+
+
+ A bold typeface or letter.
+
+
+
+Examples: 
+
+‘Shadow cabinet members listed in bold’
+
+‘Google will display the search keywords in bold in your ad if they're present.’
+
+‘The questions will then pertain to that picture and the answers will be listed in bold under the questions.’
+
+‘After I scribble ‘The Dimensional Traveler’ in bold on a blank page, I pick up another blank page.’
+
+‘Pages not for public dissemination should be annotated in bold at the bottom with the reserved term ‘classified.’’
+
+‘Numbers in bold at the beginning of each specimen's name are sample numbers.’
+
+‘You must include the ‘code’ indicated in bold in order for your meta tags to work.’
+
+‘Start putting keyword phrases in bold in the second paragraph.’
+
+‘Unfortunately, it appears to be missing a ‘not’ in a vital sentence in bold on its opening page.’
+
+‘The links are very easily read, the headlines are concise, and the use of bold in the copy allows for skimming without interfering with reading.’
+
+
+
+ Dare to do something that might be considered audacious (used when politely asking a question or making a suggestion)
+
+
+
+Examples: 
+
+‘what would he be calling for, if I might make so bold as to ask?’
+
+‘There are plenty of disgusting foods out there, but I don't think there are many companies that would dare to be so bold as to stick a name like Pork Brains In Milk Gravy right on the can.’
+
+‘May I be so bold as to suggest one to add to your list.’
+
+‘Might I be so bold as to suggest a synchronised charge tomorrow morning?’
+
+‘I have always thought that Stanley was saying, in coded form, that he was being so bold as to speak to a gentleman to whom he hadn't been introduced.’
+
+‘This time, however, the judges have been so bold as to overturn a jury decision on the simple basis that in their view no reasonable jury could have arrived at the verdict that it did.’
+
+‘I have been so bold as to rank the Bengali icons of the past hundred years.’
+
+‘The people of the Pairc district of Lewis have decided to be so bold as to opt to buy the land where they live from their landlord despite the estate not being on the market.’
+
+‘In fact I would even be so bold as to contend that I have a much better argument on the evidence than Peggy does.’
+
+‘If my friend can be so bold as to say I'm one of the funniest five people on the planet, why stop there?’
+
+‘Might I also be so bold as to ask why it was rejected in any case?’
+
+
+
+ Confident to the point of impudence.
+
+
+
+Examples: 
+
+‘she marched into the library as bold as brass’
+
+‘Bold and brash - indeed bold as brass - the young property developer who sauntered into a moribund Tynecastle in 1981 was unfazed that he was not the players' choice.’
+
+‘He now has colleagues who are full of confidence, bold as brass and ready to make their way in the world.’
+
+‘They waltzed into the party bold as brass and started dancing with two men on the dance floor.’
+
+‘Anybody who can walk into someone's house as bold as brass and attempt to commit a serious offence has to be viewed as a menace to society.’
+
+‘She left a glorious legacy in an image of female strength that is as bold as brass, supremely self-confident and unashamedly sexual.’
+
+‘Surely it would have been easier to run through the streets, bold as brass, killing anything and anyone that got in his way.’
+
+‘Then they had returned, arm in arm, smiling secretly at each other and bold as brass.’
+
+‘I thought it would be hard to find, but there it was, bold as brass, with a sign and everything.’
+
+‘He was as bold as brass as we exchanged pleasantries and thought nothing of the remarks that he had made.’
+
+‘He would go around the country and all the small towns and he would be as bold as brass.’
+
+
+
+ A daring action or initiative.
+
+
+
+Examples: 
+
+‘the budget was full of bold strokes’
+
+‘They can in one bold stroke change the economic coffee landscape with an initiative in support of the coffee farmers in the global village.’
+
+‘It's a pretty bold stroke considering his history on some of these campaign fund-raising issues.’
+
+‘In one bold stroke, Google will give new value to millions of orphaned works.’
+
+‘In order to have a chance at anything but defeat, Sharon had to seize the advantage by some bold stroke.’
+
+‘This was an incredibly bold stroke, and they could have been worried about retribution coming at any minute.’
+
+‘This was a bold stroke by the board.’
+
+‘While these men were not social revolutionaries bent on overturning the slave system in one bold stroke, nor were they solely foot draggers content to slow production.’
+
+‘And that is what he invented recursive functions for, a bold stroke for which he would indeed deserve to be declared a hero of our times.’
+
+‘It called for a bold stroke, not considered Pierce's forté.’
+
+‘The team is expected to be active on Draft Day and could help its cause by making a bold stroke.’
+
+
 
 Related Forms: 
 
-orderless, adjective
-orderable, adjective
-counterorder, noun, verb
-orderer, noun
-unorderable, adjective
-preorder, noun
+unbold, adjective
+boldness, noun
+overboldness, noun
+overbold, adjective
+unboldly, adverb
+overboldly, adverb
+superboldly, adverb
+boldly, adverb
+superboldness, noun
+unboldness, noun
+superbold, adjective
 
 
 
 French: 
 
- ordre  m
- par ordre alphabétique/chronologique
-aisons les choses en ordre
- ils ont deux garçons et uneille, dans cet ordre
- par ordre d'entrée en scène
- par ordre d'apparition à l'écran
- ordre  m
- mettre de l'ordre dans ses affaires/livres, ranger ses affaires/livres
- ordre  m
- instruction 
- ordonner à quelqu'un deaire quelque chose
- Harry adore donner des ordres
- on a reçu l'ordre d'attendre ici
- je neais qu'exécuter les ordres
- je n'ai pas d'ordres à recevoir de vous
- les ordres sont les ordres
- à mon commandement, mettez-vous en rangs par deux
- sur ordre du médecin
- ordre  m, consigne 
- commande 
- passer (une) commande de quelque chose
- les livres ont été commandés
- marchandises pl  commandées
- votre commande est arrivée
- avez-vous choisi?
- part 
- une portion derites
- mandat  m
- payez à l'ordre de A. Jones
- ordonnance ,  arrêté  m
- ordre  m, discipline 
- maintenir l'ordre
- maintenir la discipline
- les enfants ont besoin de discipline
- rétablir l'ordre
- ordre  m
- rappeler quelqu'un à l'ordre
- être en infraction avec le règlement
- de l'ordre!
- ce qu'il a dit/fait était déplacé
- ordre  m  établi
- dans l'ordre des choses
- ordre  m  du jour
- être à l'ordre du jour
- être au goût du jour
- en état de marche or deonctionnement
- classe , ordre  m
- ordre  m
- un travail de recherche de tout premier ordre
- un escroc de grande envergure
- espèce , genre  m
- ordre  m
- l'ordre de la Jarretière/du Mérite
- ordre  m
- ordre  m
-  ordonner
- ordonner à quelqu'un deaire quelque chose
- le médecin lui a prescrit trois semaines de repos
- le gouvernement a ordonné l'ouverture d'une enquête sur la catastrophe
- il a été condamné aux dépens
- on nous a ordonné de quitter la pièce
- donner l'ordre à quelqu'un deaire quelque chose
- les troupes ont reçu l'ordre de gagner la Méditerranée
-  commander
-  organiser
- mettre de l'ordre dans
-  régler, mettre en ordre
- une existence paisible et bien réglée
-  classer
-  commander, passer une commande
- voulez-vous commander maintenant?
- par ordre de
- sur décision du tribunal
- en règle
- approprié, admissible
- rien ne s'oppose à ce que vous partiez
- je pense qu'il est temps deaire une pause pour le déjeuner
- des excuses s'imposent
- afin que
- afin de
- pour éviter de vousaire de la peine
- de l'ordre de
- en panne
- en dérangement
- ‘hors service’,  ‘en panne’
- sur commande
- il s'estaitaire un costume sur mesures
-  commander
- il adore régenter son monde
- je n'ai pas d'ordres à recevoir!
- Move back a little, please
- Go and get my glasses, will you?
- Don't go into the kitchen, theloor's wet
- Turn left at the lights
- Quiet, please!
- Put that down now, do you hear me!
- Call me as soon as he arrives, OK?
- Get out of here!
+ intrépide, hardi
+ un projet audacieux or
+ osé
+ un coup d'audace
+ il s'est enhardi dans ses tentatives
+ assuré
+ effronté
+ puis-je me permettre de vous demander qui vous êtes?
+ culotté
+ puissant, hardi
+ un style (d'écriture) hardi
+ en puissant relief
+ vif, éclatant
+ en gras
+ caractères  mpl 
+ gras, gras  m
 
 
 
