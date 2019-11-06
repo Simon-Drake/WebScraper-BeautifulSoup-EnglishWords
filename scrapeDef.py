@@ -13,8 +13,8 @@ def readEnglishFile():
     with open(rd_fl_url, "r") as rd:
         for line in rd:
             wrds.append(line.strip().lower())
-    with open(rd_fl_url, "w") as f:
-        f.write('BYTEORDER')
+
+
     return wrds[1:]
 
 # Use BeautifulSoup to get the definitions. 
@@ -34,10 +34,12 @@ def getInfo(ls):
 
         # Make request and create a soup object. 
         result = req.get(bs_url + i)
+        print(result)
         soup = BeautifulSoup(result.text, "lxml")
-        
+
         # Store definitions and examples. 
         for element in soup.find_all(True, {"class":["ind", "ex", "iteration", "subsenseIteration"]}):
+            print(element)
             if (element['class'][0] == "iteration" or element['class'][0] == "subsenseIteration"):
                 itrs.append(element.text)
                 itr +=1
@@ -84,11 +86,11 @@ def getInfo(ls):
 
 # Write neatly in a txt file. 
 def writeQA(dne, wrds):
-    previousDef = list()
-    with open(wrt_fl_url , "r") as f:
-        previousDef =  f.readlines()
+    # previousDef = list()
+    # with open(wrt_fl_url , "r") as f:
+    #     previousDef =  f.readlines()
     with open(wrt_fl_url , "w") as wt:
-        wt.writelines(previousDef)
+        # wt.writelines(previousDef)
         for i, item in enumerate(dne):
             s = str(i+1) + ". " + wrds[i] + "\n\n"
             for j in range(0, len(dne[i][0])):
