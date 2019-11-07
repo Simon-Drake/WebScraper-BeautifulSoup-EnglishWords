@@ -137,9 +137,9 @@ if __name__ == "__main__":
     wrds = readEnglishFile(englishWords)
     wordsDone_ = readEnglishFile(wordsDone)
     wordsToDo = [word for word in wrds if word not in wordsDone_]
-    dne = getInfo(wrds)
+    dne = getInfo(wordsToDo)
     if len(dne[0]) == 0:
         print(dne)
         input("no definitions, continue?")
-    writeQA(dne, wrds, lastNumber)
+    writeQA(dne, wordsToDo, lastNumber)
     writeWordsDone(wordsToDo)
