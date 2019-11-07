@@ -1,2 +1,4 @@
 BYTEORDER
-bold
+squeamish
+fastidious
+scrupulous

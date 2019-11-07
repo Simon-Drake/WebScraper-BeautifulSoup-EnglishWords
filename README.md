@@ -1,5 +1,5 @@
 When searching for the url: 
-- Can start with an uppercase or lowercase
+- Uppercase doesn't seem to work
 - When multiple words separare by underscore "_"
     - For the definition but not related forms or translation
 - For possession: apostrophes work. 

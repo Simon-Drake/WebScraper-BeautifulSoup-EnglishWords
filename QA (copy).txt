@@ -1,4 +1,4 @@
-1. Fastidious
+1. Squeamish
 
 1 Easily made to feel sick or disgusted.
 
@@ -86,14 +86,14 @@ Examples:
 
 Related Forms: 
 
-squeamishly, adverb
-oversqueamishness, noun
-squeamishness, noun
-oversqueamishly, adverb
 unsqueamishly, adverb
-unsqueamish, adjective
-oversqueamish, adjective
+oversqueamishly, adverb
 unsqueamishness, noun
+oversqueamishness, noun
+unsqueamish, adjective
+squeamishly, adverb
+oversqueamish, adjective
+squeamishness, noun
 
 
 
@@ -105,7 +105,7 @@ French:
 
 
 
-2. Squeamish
+2. Fastidious
 
 1 Very attentive to and concerned about accuracy and detail.
 
@@ -183,23 +183,23 @@ Examples:
 
 Related Forms: 
 
-ultrafastidiousness, noun
-fastidiousness, noun
-unfastidious, adjective
-overfastidiously, adverb
-overfastidiousness, noun
-fastidiously, adverb
-ultrafastidious, adjective
-nonfastidiousness, noun
-nonfastidious, adjective
 nonfastidiously, adverb
-unfastidiousness, noun
-overfastidious, adjective
-hyperfastidiously, adverb
-hyperfastidious, adjective
-ultrafastidiously, adverb
+ultrafastidious, adjective
+ultrafastidiousness, noun
+unfastidious, adjective
 hyperfastidiousness, noun
+nonfastidious, adjective
+overfastidiousness, noun
 unfastidiously, adverb
+hyperfastidious, adjective
+unfastidiousness, noun
+hyperfastidiously, adverb
+nonfastidiousness, noun
+overfastidious, adjective
+fastidiously, adverb
+ultrafastidiously, adverb
+fastidiousness, noun
+overfastidiously, adverb
 
 
 
@@ -283,15 +283,15 @@ Examples:
 
 Related Forms: 
 
-underscrupulous, adjective
-hyperscrupulousness, noun
-hyperscrupulosity, noun
-underscrupulously, adverb
-scrupulosity  [skroo-pyuh-los-i-tee] /ˌskru pyəˈlɒs ɪ ti/, scrupulousness, noun
 hyperscrupulous, adjective
+hyperscrupulousness, noun
 scrupulously, adverb
+hyperscrupulosity, noun
 hyperscrupulously, adverb
 scrupulousness, noun
+underscrupulous, adjective
+underscrupulously, adverb
+scrupulosity  [skroo-pyuh-los-i-tee] /ˌskru pyəˈlɒs ɪ ti/, scrupulousness, noun
 
 
 
