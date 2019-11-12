@@ -17,8 +17,9 @@ for i, item in enumerate(qsas):
         it += 1
     ans[it] = lines
 
-print(qs)
-# print(ans)
+del ans[0]
+qsas = [(' ', ' ')]+ list(zip([elem.split(" ")[1].replace("\n", "") for elem in qs.values()], ans.values()))
+dict_qsas = dict(qsas)
 
 wrds = list()
 with open("englishDone.txt", "r") as rd:
@@ -26,8 +27,7 @@ with open("englishDone.txt", "r") as rd:
         word = line.strip().lower().title()
         wrds.append(word)
 
-print(wrds)
 
 with open("QA.txt", "w") as f:
     for i in range(1, len(wrds)):
-        f.write(str(i) + ". " + wrds[i] + "\n" + ans[i])
+        f.write(str(i) + ". " + wrds[i] + "\n\n" + dict_qsas[wrds[i]])
